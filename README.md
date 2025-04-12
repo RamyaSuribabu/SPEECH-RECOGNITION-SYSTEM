@@ -13,3 +13,4 @@
 A Speech Recognition System is an innovative technology that processes spoken words and converts them into text or executes commands based on voice input. It enables human-computer interaction without the need for physical input devices like keyboards or touchscreens, making it an essential tool for accessibility, convenience, and automation.
 
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/e09df98d-f76c-434f-add0-0bc0f9cc8141)
